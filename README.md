@@ -1,1 +1,2 @@
 # School_management_system
+Great_Mind_Management_system
