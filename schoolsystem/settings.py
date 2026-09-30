@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-@g14nj*wvk5!ormcz4r(w28jya9j3)jlvz0tni%azua2z-8wns
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    "127.0.0.1","localhost","https://schoolsystem-tpvl.onrender.com",
+    "127.0.0.1","localhost",'schoolsystem-tpvl.onrender.com',
 ]
 
 
